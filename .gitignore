@@ -6,3 +6,5 @@ node_modules/
 *.map
 *.LICENSE.txt
 env.js
+
+extension/images/dist/
